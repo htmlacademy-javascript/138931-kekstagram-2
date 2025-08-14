@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Любовь Куманяева](https://up.htmlacademy.ru/javascript-individual/2/user/138931).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Вавщик](https://htmlacademy.ru/profile/id1610171).
 
 ---
 
